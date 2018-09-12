@@ -1,0 +1,7 @@
+sceneSetups:
+- path: "Assets/F\xF8rste spil.unity"
+  isLoaded: 1
+  isActive: 0
+- path: Assets/3D Modeller.unity
+  isLoaded: 1
+  isActive: 1
